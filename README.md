@@ -1,2 +1,5 @@
 # KChat
-Custom instant messaging system based on the Moduo network library. It involved the development of both the client and Linux backend server.
+Project Overview: This project is a custom instant messaging system based on the Moduo network library, inspired by the open-source project TeamTalk. It involved the development of both the client and Linux backend server, as well as the design of the software architecture and some business logic.
+Key Technologies: The project utilizes multi-threading, thread synchronization mechanisms, design patterns like the Singleton pattern, network technologies including HTTP, TCP, Select, and Socket, character parsing with JSON and XML, Epoll, MySQL database operations, MFC control rewriting, and C++11 features like shared_ptr and lambda expressions.
+Functionalities: It supports user registration, password modification, login, fetching friend lists and information, adding/removing friends, sending chat messages, creating group chats, searching/joining group chats, fetching group member lists and information, along with message caching and file server development.
+(Finished locally, to Be Uploaded)
